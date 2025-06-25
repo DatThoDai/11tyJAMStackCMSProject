@@ -20,7 +20,7 @@ A beautiful and fast hamster care blog built with modern JAMStack architecture, 
 - [Live Demo on Netlify](https://11tyjamstackcms.netlify.app/)
 
 ## Video Demonstration
-
+https://github.com/user-attachments/assets/0c393d04-215c-4408-a780-ed973ab954a4
 
 ## Content Topics
 - Hamster housing and cage setup
