@@ -1,19 +1,50 @@
 ---
-title: My First Article
-author: Kevin Powell
-date: 2021-05-01
+title: The Ultimate Hamster Starter Kit
+author: Nguyen Van Dat
+date: 2025-06-20
 tags: ["post", "featured"]
 image: /assets/blog/article-1.jpg
 imageAlt: This is a test
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
+description: Everything you need to know to set up the perfect home for your new hamster companion. From cage selection to essential accessories, this guide covers all the basics for new hamster owners.
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Risus commodo viverra maecenas accumsan lacus vel. Donec ultrices tincidunt arcu non sodales. Mattis rhoncus urna neque viverra justo nec ultrices dui sapien. Pretium quam vulputate dignissim suspendisse in est. Lobortis mattis aliquam faucibus purus in massa tempor nec. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue. Quis ipsum suspendisse ultrices gravida dictum fusce ut placerat. Vulputate eu scelerisque felis imperdiet proin. Nisl nisi scelerisque eu ultrices.
+Bringing home a new hamster is an exciting experience, but it can also be overwhelming for first-time owners. Getting the right starter kit is crucial for your hamster's health and happiness. A proper setup includes appropriate housing, bedding, food, water, exercise equipment, and hiding spots. In this comprehensive guide, we'll walk you through everything you need for the perfect hamster home.
 
-Enim nulla aliquet porttitor lacus luctus accumsan. Vulputate mi sit amet mauris commodo quis. Accumsan in nisl nisi scelerisque eu ultrices vitae auctor. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Placerat orci nulla pellentesque dignissim. Consequat mauris nunc congue nisi. Nec nam aliquam sem et tortor consequat. Consequat semper viverra nam libero justo laoreet sit amet. Id interdum velit laoreet id donec. Turpis in eu mi bibendum neque. Tincidunt vitae semper quis lectus. Suscipit adipiscing bibendum est ultricies integer quis auctor. Posuere urna nec tincidunt praesent semper. Sagittis id consectetur purus ut faucibus pulvinar elementum. Diam maecenas ultricies mi eget mauris. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Dui sapien eget mi proin sed.
+## Choosing the Right Cage
 
-In iaculis nunc sed augue lacus. Pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum. Consectetur adipiscing elit ut aliquam. Tortor consequat id porta nibh venenatis cras sed. Integer enim neque volutpat ac tincidunt. Pellentesque pulvinar pellentesque habitant morbi. Ut enim blandit volutpat maecenas. Risus quis varius quam quisque id. Turpis tincidunt id aliquet risus. Congue eu consequat ac felis donec.
+The most important item in your hamster starter kit is the cage. Syrian hamsters need at least 450 square inches of uninterrupted floor space, while dwarf hamsters need at least 400 square inches. Avoid wire cages with small bar spacing as hamsters can squeeze through tiny gaps. Aquariums (40+ gallon), bin cages, and large modular cages are all good options.
 
-Aliquam vestibulum morbi blandit cursus risus at. Malesuada fames ac turpis egestas sed tempus. Donec et odio pellentesque diam volutpat commodo sed egestas egestas. Tortor pretium viverra suspendisse potenti nullam ac tortor vitae purus. Enim diam vulputate ut pharetra sit amet aliquam. Est ante in nibh mauris cursus mattis. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque. Nec ultrices dui sapien eget mi proin sed libero enim. Sed sed risus pretium quam vulputate. Sit amet luctus venenatis lectus magna.
+When selecting a cage, consider:
+- Floor space (bigger is always better)
+- Ventilation
+- Escape-proof design
+- Ease of cleaning
+- Space for accessories
 
-Mauris nunc congue nisi vitae suscipit tellus mauris. Vitae et leo duis ut. Arcu cursus euismod quis viverra nibh. Amet mauris commodo quis imperdiet. Condimentum lacinia quis vel eros donec. Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Faucibus nisl tincidunt eget nullam. Cursus metus aliquam eleifend mi in nulla. Ut placerat orci nulla pellentesque dignissim enim sit amet. Lobortis feugiat vivamus at augue eget arcu dictum. Nunc faucibus a pellentesque sit amet porttitor. Quis varius quam quisque id diam vel quam elementum pulvinar.
+## Essential Bedding and Substrate
+
+Proper bedding is crucial for your hamster's comfort and health. Paper-based bedding like Carefresh or clean paper strips are excellent options. Aspen wood shavings are also acceptable. Avoid cedar and pine shavings as they contain harmful oils that can cause respiratory issues.
+
+Your bedding layer should be at least 6 inches deep to allow for burrowing, as hamsters are natural diggers. This depth helps satisfy their instinctual need to create tunnels and nests. Remember to replace at least 1/3 of the bedding weekly to maintain cleanliness.
+
+## Wheels and Exercise Equipment
+
+Exercise equipment is essential for your hamster's physical and mental health. A properly sized wheel is the most important exercise item - it should be large enough that your hamster can run with a straight back. For Syrian hamsters, wheels should be at least 8-12 inches in diameter, while dwarf hamsters need wheels that are at least 6-8 inches.
+
+Other exercise options include:
+- Exercise balls (supervised use only, for limited time)
+- Playpens for supervised out-of-cage time
+- Tunnels and tubes (ensure they're wide enough to prevent getting stuck)
+- Climbing toys and platforms
+
+## Food, Water, and Accessories
+
+A balanced diet is crucial for your hamster's health. A quality commercial hamster mix should form the base of their diet, supplemented with fresh vegetables and occasional fruits. Make sure to provide:
+
+- A food dish (ceramic is best as it's heavy and can't be tipped over)
+- A water bottle with a metal sipper tube
+- A sand bath for cleaning their coat
+- Multiple hiding places (store-bought houses or simple cardboard boxes)
+- Chew toys to maintain dental health
+
+Remember that hamsters are nocturnal, so they'll be most active at night. Provide a quiet location for their cage during the day, and be prepared for some nighttime activity. With the right setup, your new hamster will have everything they need to thrive in their new home!
